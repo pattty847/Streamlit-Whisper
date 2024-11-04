@@ -3,6 +3,9 @@
 venv/
 ENV/
 
+# Files
+full-project.txt
+
 # Python
 __pycache__/
 *.py[cod]
