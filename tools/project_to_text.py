@@ -78,7 +78,7 @@ def write_project_to_file(
 
 if __name__ == '__main__':
     # Get the project root directory (assuming this script is in the project)
-    project_root = str(Path(__file__).parent)
+    project_root = str(Path(__file__).parent.parent)
     dir_ = ""
     
     write_project_to_file(
