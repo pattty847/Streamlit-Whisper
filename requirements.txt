@@ -1,0 +1,6 @@
+streamlit
+whisper-openai
+moviepy
+yt-dlp
+instaloader
+Werkzeug
